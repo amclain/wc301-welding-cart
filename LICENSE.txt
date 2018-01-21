@@ -1,0 +1,28 @@
+Copyright 2017 Alex McLain
+
+PERSONAL MANUFACTURE & USE LICENSE
+
+* These files can be copied digitally and/or physically by an individual or
+  corporation for their own personal use of this product.
+  * Modifications for personal use are allowed.
+  * A digital and/or physical copy may be provided to a job shop to manufacture
+    parts you are unable to fabricate yourself that are for use on your personal
+    copy of the product.
+* Public redistribution of these project files, including any modifications, is
+  prohibited without prior written consent of the copyright holder.
+  * Creating a hyperlink to the official project files is acceptable.
+* Resale and/or rental of these files, the finished product, or any portion
+  thereof, is prohibited. (No selling the product, plans, kits, or derivatives.)
+  * Exception: Two finished units may be sold per year by an individual or
+    corporation in USED condition, no earlier than one year after the unit is
+    manufactured. The unit(s) must be sold at or below the cost of materials.
+    (You can recoup the cost of materials if you want to get rid of the unit.)
+  * Exception: A finished or incomplete unit can be sold as scrap at or below
+    the fair market value of the scrap material. (You can throw the product away
+    at a scrap yard or garbage dump).
+* This copyright notice shall be included in all copies of the project files
+  and prints.
+* This project is provided "AS IS", without warranty of any kind.
+
+
+For commercial licensing contact Alex McLain <alex@alexmclain.com>.
