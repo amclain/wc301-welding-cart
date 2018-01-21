@@ -7,6 +7,8 @@ _Considering this cart is specifically designed for the Everlast PowerTIG 255EXT
 Although this cart was designed for the Everlast PowerTIG 255EXT, it may work
 with other welders.
 
+![](wc1_welding_cart.jpg)
+
 ## Specifications
 
 ```text
